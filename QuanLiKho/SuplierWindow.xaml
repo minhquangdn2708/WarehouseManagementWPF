@@ -1,0 +1,98 @@
+﻿<Window x:Class="QuanLiKho.SuplierWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Supplier Window" Height="500" Width="800" 
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- Main Content -->
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <!-- Search Box -->
+            <materialDesign:Card Grid.Row="0" Margin="5" Height="60">
+                <WrapPanel>
+                    <TextBox Name="SearchTextBox" Width="180" Margin="5" 
+                             materialDesign:HintAssist.Hint="Tìm kiếm theo tên"
+                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                             TextChanged="SearchTextBox_TextChanged"/>
+                </WrapPanel>
+            </materialDesign:Card>
+
+            <!-- Supplier Details Input Form -->
+            <materialDesign:Card Grid.Row="1" Margin="5">
+                <WrapPanel Margin="10 0 10 10">
+                    <TextBox Text="{Binding SelectedSupplier.SupplierName, UpdateSourceTrigger=PropertyChanged}" 
+                             Margin="5 5 15 5" 
+                             materialDesign:HintAssist.Hint="Tên nhà cung cấp" 
+                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                             MinWidth="120"/>
+
+                    <TextBox Text="{Binding SelectedSupplier.Address, UpdateSourceTrigger=PropertyChanged}" 
+                             Margin="5 5 15 5" 
+                             materialDesign:HintAssist.Hint="Địa chỉ" 
+                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                             MinWidth="180"/>
+
+                    <TextBox Text="{Binding SelectedSupplier.Phone, UpdateSourceTrigger=PropertyChanged}" 
+                             Margin="5 5 15 5" 
+                             materialDesign:HintAssist.Hint="Điện thoại" 
+                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                             MinWidth="100"/>
+
+                    <TextBox Text="{Binding SelectedSupplier.Email, UpdateSourceTrigger=PropertyChanged}" 
+                             Margin="5 5 15 5" 
+                             materialDesign:HintAssist.Hint="Email" 
+                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                             MinWidth="150"/>
+
+                    <DatePicker SelectedDate="{Binding SelectedSupplier.ContractDate, UpdateSourceTrigger=PropertyChanged}" 
+                                Width="120" 
+                                Margin="5 5 15 -7" 
+                                materialDesign:HintAssist.Hint="Ngày hợp tác" 
+                                Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                </WrapPanel>
+            </materialDesign:Card>
+
+            <!-- CRUD Buttons -->
+            <materialDesign:Card Grid.Row="2" Margin="5" Height="50">
+                <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Button Content="Thêm" Margin="5" Width="90" Click="Button_Add"/>
+                    <Button Content="Sửa" Margin="5" Width="90" Click="Button_Edit"/>
+                    <Button Content="Xóa" Margin="5" Width="90" Click="Button_Delete"/>
+                </WrapPanel>
+            </materialDesign:Card>
+
+            <!-- Supplier List View -->
+            <materialDesign:Card Grid.Row="3" Margin="5" VerticalAlignment="Stretch">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <ListView Name="SupplierListView" ItemsSource="{Binding Suppliers}" SelectedItem="{Binding SelectedSupplier}">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Id" DisplayMemberBinding="{Binding SupplierId}"/>
+                                <GridViewColumn Header="Tên nhà cung cấp" DisplayMemberBinding="{Binding SupplierName}"/>
+                                <GridViewColumn Header="Địa chỉ" DisplayMemberBinding="{Binding Address}"/>
+                                <GridViewColumn Header="Điện thoại" DisplayMemberBinding="{Binding Phone}"/>
+                                <GridViewColumn Header="Email" DisplayMemberBinding="{Binding Email}"/>
+                                <GridViewColumn Header="Ngày hợp tác" DisplayMemberBinding="{Binding ContractDate, StringFormat='dd/MM/yyyy'}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </ScrollViewer>
+            </materialDesign:Card>
+        </Grid>
+    </Grid>
+</Window>

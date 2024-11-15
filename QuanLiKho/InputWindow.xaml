@@ -1,0 +1,60 @@
+﻿<Window x:Class="QuanLiKho.InputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="InputWindow" Height="600" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- Form nhập liệu -->
+        <StackPanel Orientation="Vertical" Margin="10">
+            <!-- ComboBox cho tên vật tư -->
+            <ComboBox x:Name="cbObjectName" Width="200" 
+                      DisplayMemberPath="ObjectName"
+                      SelectedValuePath="ObjectId" 
+                      materialDesign:HintAssist.Hint="Tên vật tư" />
+
+            <!-- Sắp xếp các TextBox nằm ngang -->
+            <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Left" >
+                <DatePicker x:Name="dpInputDate" Width="150" 
+                            materialDesign:HintAssist.Hint="Ngày nhập" />
+
+                <TextBox x:Name="txtCount" Width="100" 
+                         materialDesign:HintAssist.Hint="Số lượng" />
+
+                <TextBox x:Name="txtInputPrice" Width="150" 
+                         materialDesign:HintAssist.Hint="Giá nhập" />
+
+                <TextBox x:Name="txtOutputPrice" Width="150" 
+                         materialDesign:HintAssist.Hint="Giá xuất" />
+
+                <TextBox x:Name="txtStatus" Width="150" 
+                         materialDesign:HintAssist.Hint="Trạng thái" />
+            </StackPanel>
+
+            <!-- Các nút Thêm, Sửa, Xóa -->
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Button x:Name="btnAdd" Content="Thêm" Width="100" Click="btnAdd_Click" Margin="5"/>
+                <Button x:Name="btnEdit" Content="Sửa" Width="100" Click="btnEdit_Click" Margin="5"/>
+                <Button x:Name="btnDelete" Content="Xóa" Width="100" Click="btnDelete_Click" Margin="5"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- DataGrid hiển thị danh sách -->
+        <DataGrid Grid.Row="1" x:Name="dgInputInfo" 
+                  AutoGenerateColumns="False" Margin="10"
+                  SelectionChanged="dgInputInfo_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Vật tư" Binding="{Binding Object.ObjectName}" Width="150"/>
+                <DataGridTextColumn Header="Ngày nhập" Binding="{Binding InputDate}" Width="100"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding Count}" Width="100"/>
+                <DataGridTextColumn Header="Giá nhập" Binding="{Binding InputPrice}" Width="100"/>
+                <DataGridTextColumn Header="Giá xuất" Binding="{Binding OutputPrice}" Width="100"/>
+                <DataGridTextColumn Header="Trạng thái" Binding="{Binding Status}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

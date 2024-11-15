@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\unitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\unitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\dataaccesslayer\\dao\\unitdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dao\\unitdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\dataaccesslayer\\repository\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\dataaccesslayer\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\businessobject\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\outwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\outwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\unitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\unitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\suplierwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\suplierwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\objectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\objectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\objectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\objectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\outwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\outwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\inputwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\inputwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\inputwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\inputwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\businessobject\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\quanlikho.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\quanlikho.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\controlbar\\controlbaruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\controlbar\\controlbaruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\businessobject\\inputinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\inputinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\businessobject\\outputinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\outputinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\supplierform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\supplierform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\dataaccesslayer\\dao\\outputdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dao\\outputdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\dataaccesslayer\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\businessobject\\quanlikhocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D0EB0A-F631-484B-AE1B-09E61DAB5F59}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\quanlikhocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\dataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\quanlikho\\supplierform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65335870-EB6B-4499-91FA-82C2986C6B61}|QuanLiKho\\QuanLiKho.csproj|solutionrelative:quanlikho\\supplierform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|d:\\chuyen nganh 5\\prn212\\quanlikho\\dataaccesslayer\\repository\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A182C102-80F6-4E5E-8744-C1BB34B4FF83}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObjectWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\ObjectWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiKho\\ObjectWindow.xaml.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\ObjectWindow.xaml.cs",
+              "RelativeToolTip": "QuanLiKho\\ObjectWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwIQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:40:49.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ObjectWindow.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\ObjectWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\ObjectWindow.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\ObjectWindow.xaml",
+              "RelativeToolTip": "QuanLiKho\\ObjectWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T02:40:20.985Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuplierWindow.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\SuplierWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\SuplierWindow.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\SuplierWindow.xaml",
+              "RelativeToolTip": "QuanLiKho\\SuplierWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T02:26:45.841Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitDAO.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\DAO\\UnitDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DAO\\UnitDAO.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\DAO\\UnitDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DAO\\UnitDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:13:59.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\Repository\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\SupplierRepository.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\Repository\\SupplierRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\SupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:13:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\UnitWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiKho\\UnitWindow.xaml.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\UnitWindow.xaml.cs",
+              "RelativeToolTip": "QuanLiKho\\UnitWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:00:29.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InputWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\InputWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiKho\\InputWindow.xaml.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\InputWindow.xaml.cs",
+              "RelativeToolTip": "QuanLiKho\\InputWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:31:49.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitWindow.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\UnitWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\UnitWindow.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\UnitWindow.xaml",
+              "RelativeToolTip": "QuanLiKho\\UnitWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T03:21:47.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitRepository.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\Repository\\UnitRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\UnitRepository.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\Repository\\UnitRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\UnitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:03:59.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiKho\\UserWindow.xaml.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\UserWindow.xaml.cs",
+              "RelativeToolTip": "QuanLiKho\\UserWindow.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAMwFMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:20:11.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\Unit.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Unit.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\Unit.cs",
+              "RelativeToolTip": "BusinessObject\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:39:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputWindow.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\InputWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\InputWindow.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\InputWindow.xaml",
+              "RelativeToolTip": "QuanLiKho\\InputWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T03:31:38.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\OutWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiKho\\OutWindow.xaml.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\OutWindow.xaml.cs",
+              "RelativeToolTip": "QuanLiKho\\OutWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:54:02.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\UserWindow.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\UserWindow.xaml",
+              "RelativeToolTip": "QuanLiKho\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T03:18:34.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\Supplier.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Supplier.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\Supplier.cs",
+              "RelativeToolTip": "BusinessObject\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:39:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OutWindow.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\OutWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\OutWindow.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\OutWindow.xaml",
+              "RelativeToolTip": "QuanLiKho\\OutWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T02:18:15.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\CustomerWindow.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\CustomerWindow.xaml",
+              "RelativeToolTip": "QuanLiKho\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T03:19:24.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuanLiKho",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\QuanLiKho.csproj",
+              "RelativeDocumentMoniker": "QuanLiKho\\QuanLiKho.csproj",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\QuanLiKho.csproj",
+              "RelativeToolTip": "QuanLiKho\\QuanLiKho.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T05:31:53.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControlBarUC.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\ControlBar\\ControlBarUC.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\ControlBar\\ControlBarUC.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\ControlBar\\ControlBarUC.xaml",
+              "RelativeToolTip": "QuanLiKho\\ControlBar\\ControlBarUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T05:32:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SupplierForm.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\SupplierForm.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\SupplierForm.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\SupplierForm.xaml",
+              "RelativeToolTip": "QuanLiKho\\SupplierForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T02:17:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OutputInfo.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\OutputInfo.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\OutputInfo.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\OutputInfo.cs",
+              "RelativeToolTip": "BusinessObject\\OutputInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:51:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiKho\\LoginWindow.xaml",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\LoginWindow.xaml",
+              "RelativeToolTip": "QuanLiKho\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T04:16:46.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InputInfo.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\InputInfo.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\InputInfo.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\InputInfo.cs",
+              "RelativeToolTip": "BusinessObject\\InputInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:12:47.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OutputDAO.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\DAO\\OutputDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DAO\\OutputDAO.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\DAO\\OutputDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DAO\\OutputDAO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:48:18.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Customer.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\Customer.cs",
+              "RelativeToolTip": "BusinessObject\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:36:33.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\DAO\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DAO\\CustomerDAO.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\DAO\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DAO\\CustomerDAO.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:39:46.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuanLiKhoContext.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\QuanLiKhoContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\QuanLiKhoContext.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\BusinessObject\\QuanLiKhoContext.cs",
+              "RelativeToolTip": "BusinessObject\\QuanLiKhoContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:03:56.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccessLayer\\appsettings.json",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\appsettings.json",
+              "RelativeToolTip": "DataAccessLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T02:04:03.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SupplierForm.xaml.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\SupplierForm.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiKho\\SupplierForm.xaml.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\QuanLiKho\\SupplierForm.xaml.cs",
+              "RelativeToolTip": "QuanLiKho\\SupplierForm.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:41:26.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ObjectRepository.cs",
+              "DocumentMoniker": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\Repository\\ObjectRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\ObjectRepository.cs",
+              "ToolTip": "D:\\Chuyen nganh 5\\PRN212\\quanlikho\\DataAccessLayer\\Repository\\ObjectRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\ObjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:48:01.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

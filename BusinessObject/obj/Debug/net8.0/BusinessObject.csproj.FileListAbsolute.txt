@@ -1,0 +1,58 @@
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
+D:\quanlikho\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\quanlikho\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\quanlikho\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\quanlikho\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+D:\quanlikho\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+D:\Chuyen nganh 5\PRN212\quanlikho\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

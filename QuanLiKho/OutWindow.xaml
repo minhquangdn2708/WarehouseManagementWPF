@@ -1,0 +1,72 @@
+﻿<Window x:Class="QuanLiKho.OutputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="OutputWindow" Height="600" Width="850" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- Form nhập liệu -->
+        <StackPanel Orientation="Vertical" Margin="10">
+            <!-- ComboBox cho tên vật tư -->
+
+ 
+            <!-- Sắp xếp các TextBox nằm ngang -->
+            <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Left" >
+                <ComboBox x:Name="cbCustomerName" MinWidth="100" 
+                        DisplayMemberPath="CustomerName"
+                        SelectedValuePath="CustomerId" 
+                        materialDesign:HintAssist.Hint="Tên khách hàng" 
+                        Margin="5 5 15 5" Width="120" 
+                        />
+                <ComboBox x:Name="cbObjectName" MinWidth="100" 
+                      DisplayMemberPath="ObjectName"
+                      SelectedValuePath="ObjectId" 
+                      materialDesign:HintAssist.Hint="Tên vật tư" 
+                      Margin="5 5 15 5" Width="120" 
+                        />        
+                <DatePicker x:Name="dpOutputDate" Width="100" 
+                         materialDesign:HintAssist.Hint="Ngày nhập" 
+                         Margin="5 5 15 5" />
+                <TextBox x:Name="txtCount" Width="80" 
+                            materialDesign:HintAssist.Hint="Số lượng" 
+                         Margin="5 5 15 5"/>
+                <TextBox x:Name="txtInputPrice" Width="80" 
+                         materialDesign:HintAssist.Hint="Giá nhập" 
+                         Margin="5 5 15 5"/>
+                <TextBox x:Name="txtOutputPrice" Width="80" 
+                         materialDesign:HintAssist.Hint="Giá xuất" 
+                         Margin="5 5 15 5"/>
+                <TextBox x:Name="txtStatus" Width="80" 
+                         materialDesign:HintAssist.Hint="Trạng thái" 
+                         Margin="5 5 15 5"/>
+                
+            </StackPanel>
+
+            <!-- Các nút Thêm, Sửa, Xóa -->
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <Button x:Name="btnAdd" Content="Thêm" Width="100" Click="btnAdd_Click" Margin="5"/>
+                <Button x:Name="btnEdit" Content="Sửa" Width="100" Click="btnEdit_Click" Margin="5"/>
+                <Button x:Name="btnDelete" Content="Xóa" Width="100" Click="btnDelete_Click" Margin="5"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- DataGrid hiển thị danh sách -->
+        <DataGrid Grid.Row="1" x:Name="dgOutputInfo" 
+                  AutoGenerateColumns="False" Margin="10"
+                  SelectionChanged="dgOutputInfo_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Khách hàng" Binding="{Binding Customer.CustomerName}" Width="120"/>
+                <DataGridTextColumn Header="Vật tư" Binding="{Binding Object.ObjectName}" Width="120"/>
+                <DataGridTextColumn Header="Ngày xuất" Binding="{Binding OutputDate}" Width="95"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding Count}" Width="95"/>
+                <DataGridTextColumn Header="Giá nhập" Binding="{Binding InputInfo.InputPrice}" Width="100"/>
+                <DataGridTextColumn Header="Giá xuất" Binding="{Binding InputInfo.OutputPrice}" Width="100"/>
+                <DataGridTextColumn Header="Trạng thái" Binding="{Binding Status}" Width="95"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

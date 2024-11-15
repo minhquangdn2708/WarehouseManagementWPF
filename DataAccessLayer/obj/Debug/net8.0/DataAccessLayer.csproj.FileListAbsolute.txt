@@ -1,0 +1,70 @@
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\BusinessObject.dll
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\BusinessObject.pdb
+D:\FPT\Ki5\PRN201\Project_Final\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\bin\Debug\net8.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\ADMIN\Downloads\QuanLiKho\QuanLiKho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\quanlikho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\quanlikho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\quanlikho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\quanlikho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\quanlikho\DataAccessLayer\bin\Debug\net8.0\BusinessObject.dll
+D:\quanlikho\DataAccessLayer\bin\Debug\net8.0\BusinessObject.pdb
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\quanlikho\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\bin\Debug\net8.0\BusinessObject.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\bin\Debug\net8.0\BusinessObject.pdb
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\Chuyen nganh 5\PRN212\quanlikho\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
